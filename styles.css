@@ -28,9 +28,9 @@ a:hover {
 }
 
 img {
-	width: 150px;
-	padding: 2%;
-	box-sizing: border-box;
+	width: 130px;
+	padding: 5%;
+	
 
 }
 
@@ -46,8 +46,9 @@ img {
 .row {
 	display: flex;
 	justify-content: space-between;
-	width: 70%;
+	width: 80%;
 	margin: 0 auto;
+	padding: 5%;
 }
 
 
